@@ -1,4 +1,11 @@
 # github-validation-selenium
+
+Nesta aplicação fará a automatização e validação das funcionalidades da plataforma Github, sendo elas:
+
+Validação do login
+Validação de busca
+Criação de repositório. 
+
 Para rodar em ambiente Linux Ubunto, utilizando VSCODE como editor:  
 
     instruções para download nvm: https://github.com/nvm-sh/nvm
@@ -28,3 +35,5 @@ Para rodar a aplicação, basta utilizar o node:
     terminal bash: node validation.js 
 
 Para rodar esta aplicação no Windows, basta somente fazer download do Node.js e NPM, baixar as dependências selenium e pronto!
+
+OBS: não deixe de analisar posteriormente o repositório criado aqui!  
