@@ -26,3 +26,5 @@ Após isso, coloque as credenciais no local de login explicitado no código.
 Para rodar a aplicação, basta utilizar o node: 
 
     terminal bash: node validation.js 
+
+Para rodar esta aplicação no Windows, basta somente fazer download do Node.js e NPM, baixar as dependências selenium e pronto!
