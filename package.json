@@ -1,0 +1,17 @@
+{
+  "name": "github-validation-selenium",
+  "version": "1.0.0",
+  "description": "Para rodar esta aplicação em Linux ubuntu, faça a instalação de:",
+  "main": "validation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.4.0"
+  },
+  "devDependencies": {
+    "chromedriver": "^104.0.0"
+  }
+}
