@@ -1,5 +1,6 @@
 # github-validation-selenium
 Para rodar em ambiente Linux Ubunto, utilizando VSCODE como editor:  
+
     instruções para download nvm: https://github.com/nvm-sh/nvm
     instruções para download node: https://nodejs.org/en/
 
