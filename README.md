@@ -16,6 +16,7 @@ Para fazer a criação dos pacotes JSON:
     terminal: npm init
 
 Instalando selenium-webdriver:
+    
     terminal: npm install selenium webdriver
     terminal: npm install chromedriver --save-dev
 
