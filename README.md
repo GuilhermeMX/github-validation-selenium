@@ -15,6 +15,10 @@ Para fazer a criação dos pacotes JSON:
 
     terminal: npm init
 
+Instalando selenium-webdriver:
+    terminal: npm install selenium webdriver
+    terminal: npm install chromedriver --save-dev
+
 Após isso, coloque as credenciais no local de login explicitado no código.
 
 Para rodar a aplicação, basta utilizar o node: 
