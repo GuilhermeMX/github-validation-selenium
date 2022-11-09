@@ -19,7 +19,7 @@ async function example() {
     await driver.findElement(By.id("repository_name")).sendKeys("GuilhermeNen"); 
 
     //repository description:
-    await driver.findElement(By.id("repository_description")).sendKeys("Novo Funcionário UTECH!! Repositório especial criado para a vaga de estágio QA. #MeContrataUtech!!!"); 
+    await driver.findElement(By.id("repository_description")).sendKeys("Preencha seu readme neste local!!!"); 
     
     // criando readme.md
     await driver.findElement(By.id("repository_auto_init")).sendKeys(" ");
